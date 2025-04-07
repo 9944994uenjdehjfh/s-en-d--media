@@ -1,7 +1,7 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+title: "Rare activiteit in de buurt."
+description: "In de buurt is rare activiteit waargenomen door medeburen."
+pubDate: "april 07 2025"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
